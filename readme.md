@@ -8,12 +8,13 @@
 * Overcoming knowledge-cutoff limitations, the chatbot delivers answers based on the latest internet content.
 
 ## Streamlit User Interface
-<div align="center">
-  <img src="images/ui.png" alt="UI">
-</div>
 
 <div align="center">
   <img src="images/response.png" alt="Result">
+</div>
+
+<div align="center">
+  <img src="images/ui.png" alt="UI">
 </div>
 
 ## Project Schema
