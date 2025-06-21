@@ -12,9 +12,8 @@
   <img src="images/ui.png" alt="UI">
 </div>
 
-### The link in the response of the model to the query in the previous image
 <div align="center">
-  <img src="images/response.png)" alt="Result">
+  <img src="images/response.png" alt="Result">
 </div>
 
 ## Project Schema
