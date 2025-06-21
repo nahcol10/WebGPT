@@ -1,0 +1,9 @@
+duckduckgo_search
+mistralai
+Pillow
+pydantic
+pyprojroot
+python-dotenv
+PyYAML
+streamlit
+streamlit_chat
